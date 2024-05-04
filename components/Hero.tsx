@@ -6,7 +6,7 @@ const Hero = () => {
         <div>
              <h1 className='text-3xl font-serif font-bold text-center'> This is <span className='text-green-700'>Pakistan!</span> </h1>
              <p className='m-3 text-center font-serif font-semibold'>Hello viewers! As we all know that our beloved country Pakistan is full of beautiful sights. It has blessed with an infinite range of beauty.Here some of its beautiful sights are given for you all to bless your tumeline. </p>
-        <div className='container flex gap-10 pt-5'>' 
+        <div className='container flex gap-10 pt-5'>
         <div>
                 <Image className='h-800 w-950 float-right px-8' src="/Attabad-Lake-.webp"
                     height={800}
@@ -35,7 +35,7 @@ const Hero = () => {
             </div>
          
         </div>
-        <div className='container flex gap-10 pt-5'>' 
+        <div className='container flex gap-10 pt-5'>
         <div>
                 <Image className='h-800 w-950 float-right px-8' src="/Concordia.webp"
                     height={800}
